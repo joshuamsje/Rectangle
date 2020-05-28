@@ -1,0 +1,54 @@
+dump  	
+ insert a 1 0 2 4
+   	
+         insert b 4 3 6 1
+ 	  	
+ insert c 2 5     123 6
+ 	  	
+ insert d 1 1 1 1
+ 	  	
+ insert f 1000 1000 23 23
+ 	  	
+ insert g 1010 1010 10 10
+ 	  	
+ insert h 1000 1000 24 24
+ 	  	
+ insert i 1010 1010 10 10
+ 	  	
+ insert _j 1 1 1 1
+ 	  	
+ insert j& 1 1 1 1
+ 	  	
+ insert 1j 5 5 5 5
+ 	  	
+ intersections
+ 	  	
+ dump
+ 	  	
+ remove 1 2 5 6
+ 	  	
+         remove 3        4       5       44
+ 	  	
+ search oof
+ 	  	
+         search  oof
+ 	  	
+         remove oof
+ 	  	
+         ouch
+	  	
+ intersections
+ 	  	
+ dump
+ 	  	
+ insert oof -1 2 3 4
+ 	  	
+ insert jack% 1 1 3 2
+	  	
+ insert asdf_ 1 2 3 4
+ 	  	
+ insert asdf 0 0 1 1
+ 	  	
+ insert asdf 0 0 1 1
+ 	  	
+ insert asdf 1024 1024 0 0
